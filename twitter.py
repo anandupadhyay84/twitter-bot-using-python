@@ -7,8 +7,8 @@ last_price =  8873.72
 count =1
 mins = 30
 
-auth = tweepy.OAuthHandler("RjVAdBmjmhdijcBsOa3h2wvT3","XEyef9BzvQUu0r3I0rZj3odT149R5BuoaX1BGUdVzWarYSXyof")
-auth.set_access_token("961568071650443264-QaenTGnCxj4jK8QjGijKhyoDudW3H5T","tT3Z76qkAKM6JKcs8lpEXJFU6FknrAi4sz6se3EW87cS0")
+auth = tweepy.OAuthHandler(""," ")
+auth.set_access_token(" "," ")
 
 api = tweepy.API(auth)
 
